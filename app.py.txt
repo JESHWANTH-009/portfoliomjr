@@ -1,0 +1,5 @@
+import streamlit as st
+
+
+st.set_page_config(page_title="INSECTS DETECTION TO SUGGEST PESTICIDES USING YOLOV8")
+
